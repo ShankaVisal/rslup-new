@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'rslup-new';
+  name = 'shanka visal';
+  date = new Date();
+
 }
